@@ -144,6 +144,57 @@
     
     
     <article
+  id="post-栅格布局"
+  class="article article-type-post"
+  itemscope
+  itemprop="blogPost"
+  data-scroll-reveal
+>
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h2 itemprop="name">
+  <a class="article-title" href="/2020/09/12/%E6%A0%85%E6%A0%BC%E5%B8%83%E5%B1%80/"
+    >栅格布局</a> 
+</h2>
+ 
+
+    </header>
+     
+    <div class="article-meta">
+      <a href="/2020/09/12/%E6%A0%85%E6%A0%BC%E5%B8%83%E5%B1%80/" class="article-date">
+  <time datetime="2020-09-12T07:06:08.000Z" itemprop="datePublished">2020-09-12</time>
+</a>    
+    </div>
+      
+    <div class="article-entry" itemprop="articleBody">
+       
+  <h1 id="栅格布局"><a href="#栅格布局" class="headerlink" title="栅格布局"></a>栅格布局</h1><ul>
+<li>开始第一篇文章, 不用在意什么网速啊, 以后资源会不会不在啊, 以及搭建到自己服务器, 等等, 想那么多干什么, 还不如认真的用来写点有用的东西<h2 id="兼容性问题"><a href="#兼容性问题" class="headerlink" title="兼容性问题"></a>兼容性问题</h2><h2 id="初步体验"><a href="#初步体验" class="headerlink" title="初步体验"></a>初步体验</h2><h2 id="设置里面每一行或列的长度"><a href="#设置里面每一行或列的长度" class="headerlink" title="设置里面每一行或列的长度"></a>设置里面每一行或列的长度</h2><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">grid-template-rows: 100px 100px 100px; // 25%</span><br></pre></td></tr></table></figure>
+<h2 id="简写"><a href="#简写" class="headerlink" title="简写"></a>简写</h2><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">grid-template-rows</span>: <span class="selector-tag">repeat</span>(3, 100<span class="selector-tag">px</span>);</span><br></pre></td></tr></table></figure>
+<h2 id="按照指定宽度进行划分-再不知道分数的情况"><a href="#按照指定宽度进行划分-再不知道分数的情况" class="headerlink" title="按照指定宽度进行划分, 再不知道分数的情况"></a>按照指定宽度进行划分, 再不知道分数的情况</h2><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">grid-template-rows</span>: <span class="selector-tag">repeat</span>(<span class="selector-tag">auto-fill</span>, 100<span class="selector-tag">px</span>);</span><br><span class="line">grid-template-rows: repeat(3, 1fr); // 平均分为3分, 每份等分, 可以理解为 1fr 1fr 1fr</span><br><span class="line">grid-template-rows: 1fr 2fr 3fr; // 第一个一份第二个2份, 第三个三份</span><br></pre></td></tr></table></figure></li>
+</ul>
+ 
+      <!-- reward -->
+      
+    </div>
+    
+
+    <!-- copyright -->
+    
+    <footer class="article-footer">
+       
+    </footer>
+  </div>
+
+    
+ 
+   
+</article>
+
+    
+    <article
   id="post-测试使用"
   class="article article-type-post"
   itemscope
