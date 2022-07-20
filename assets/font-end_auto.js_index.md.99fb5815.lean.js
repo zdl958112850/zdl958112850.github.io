@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,b as a}from"./app.d4eb32af.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"font-end/auto.js/index.md"}',n={},s=a("p",null,"1",-1),r=[s];function c(_,d,i,p,l,f){return o(),t("div",null,r)}var h=e(n,[["render",c]]);export{m as __pageData,h as default};

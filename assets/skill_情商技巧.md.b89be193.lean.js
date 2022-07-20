@@ -1,0 +1,1 @@
+import{_ as i,c as e,o as p,a as l}from"./app.d4eb32af.js";const u='{"title":"\u63D0\u9AD8\u65B9\u6CD5","description":"","frontmatter":{},"headers":[],"relativePath":"skill/\u60C5\u5546\u6280\u5DE7.md"}',t={},_=l("",4),a=[_];function r(o,s,c,n,d,h){return p(),e("div",null,a)}var m=i(t,[["render",r]]);export{u as __pageData,m as default};

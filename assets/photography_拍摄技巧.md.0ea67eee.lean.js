@@ -1,0 +1,1 @@
+import{_ as i,c as t,o as l,a}from"./app.d4eb32af.js";const d='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"photography/\u62CD\u6444\u6280\u5DE7.md"}',e={},r=a("",4),p=[r];function s(o,n,_,c,g,m){return l(),t("div",null,p)}var f=i(e,[["render",s]]);export{d as __pageData,f as default};

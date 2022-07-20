@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,b as a}from"./app.d4eb32af.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"font-end/git/index.md"}',n={},s=a("p",null,"git",-1),r=[s];function c(i,_,d,p,l,f){return o(),t("div",null,r)}var h=e(n,[["render",c]]);export{u as __pageData,h as default};

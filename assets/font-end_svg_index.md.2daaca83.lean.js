@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.d4eb32af.js";const v='{"title":"svg \u72EC\u7ACB\u7684\u6587\u4EF6 \u683C\u5F0F","description":"","frontmatter":{},"headers":[],"relativePath":"font-end/svg/index.md"}',p={},o=t("",26),e=[o];function c(u,l,k,i,r,g){return a(),s("div",null,e)}var m=n(p,[["render",c]]);export{v as __pageData,m as default};

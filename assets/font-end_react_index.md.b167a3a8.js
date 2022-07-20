@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,b as o}from"./app.d4eb32af.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"font-end/react/index.md"}',n={},r=o("p",null,"react",-1),s=[r];function c(_,d,i,p,l,f){return a(),t("div",null,s)}var h=e(n,[["render",c]]);export{u as __pageData,h as default};

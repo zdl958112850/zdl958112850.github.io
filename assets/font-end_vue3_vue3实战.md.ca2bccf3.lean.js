@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as p}from"./app.d4eb32af.js";const g='{"title":"\u6848\u4F8B HelloWorld","description":"","frontmatter":{},"headers":[],"relativePath":"font-end/vue3/vue3\u5B9E\u6218.md"}',t={},o=p("",28),e=[o];function c(u,l,i,k,r,d){return a(),s("div",null,e)}var f=n(t,[["render",c]]);export{g as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.d4eb32af.js";const f='{"title":"Home","description":"","frontmatter":{"home":true,"heroImage":"/logo.svg","actionText":"\u5F00\u59CB","actionLink":"/font-end/","features":null},"headers":[],"relativePath":"index.md"}',a={};function n(r,c,s,i,d,_){return o(),t("div")}var l=e(a,[["render",n]]);export{f as __pageData,l as default};

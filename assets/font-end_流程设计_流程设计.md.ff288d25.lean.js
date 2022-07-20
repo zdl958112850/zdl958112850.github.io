@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.d4eb32af.js";const y='{"title":"\u8D44\u6E90","description":"","frontmatter":{},"headers":[],"relativePath":"font-end/\u6D41\u7A0B\u8BBE\u8BA1/\u6D41\u7A0B\u8BBE\u8BA1.md"}',p={},o=t("",13),e=[o];function c(l,r,i,u,k,d){return a(),s("div",null,e)}var g=n(p,[["render",c]]);export{y as __pageData,g as default};

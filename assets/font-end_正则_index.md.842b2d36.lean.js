@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as s,a as e}from"./app.d4eb32af.js";const g='{"title":"\u8D2A\u5A6A\u5339\u914D","description":"","frontmatter":{},"headers":[],"relativePath":"font-end/\u6B63\u5219/index.md"}',t={},p=e("",22),o=[p];function r(c,l,i,d,u,h){return s(),n("div",null,o)}var x=a(t,[["render",r]]);export{g as __pageData,x as default};
